@@ -1,0 +1,26 @@
+div {
+    font-weight: 700;
+    font-size:20px;
+    color:black;
+    background-color: lightgray;
+    padding:20px;
+    display:inline-block;
+    border-radius: 3px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+div:hover {
+    background-color: white;
+    border-color:lightgray;
+    border-width:5px, 5px, 5px, 5px;
+    border-style:solid;
+    color: darkslategray;
+    border-radius:5px;
+    padding:17px;
+}
+
+body {
+    text-align: center;
+    margin-top:50px;
+}
+

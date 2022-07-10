@@ -1,0 +1,13 @@
+.container{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    width:100%;
+}
+
+.container .text {
+    background-color: yellow;
+    color:red;
+    width:100%;
+    text-align: center;
+}
